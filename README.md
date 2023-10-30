@@ -1,0 +1,1 @@
+# aws-qa-rag-qyery-and-more-with-bedrock
